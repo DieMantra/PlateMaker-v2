@@ -29,6 +29,7 @@
 .art {
 	font-family: var(--art-font);
 	position: relative;
+	z-index: 9999;
 	min-width: 270px;
 	aspect-ratio: 3.14;
 	border-radius: 10px;
